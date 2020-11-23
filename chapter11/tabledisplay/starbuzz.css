@@ -28,6 +28,22 @@ body {
   height:           108px;
 }
 
+#award{
+  position: absolute;
+  top: 30px;
+  left: 365px;
+}
+
+#coupon{
+  position: fixed;
+  top: 350px;
+  left: -90px
+}
+
+#coupon a, img{
+  border: none;
+}
+
 #main {
   display: table-cell;
   background:       #efe5d0 url(images/background.gif) top left;
